@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome"
+date:   2024-03-26 18:15:38 -0300
+categories: jekyll update
+---
+Hello! This is my blog/website. It is a work in progress so there's nothing to see here yet.
+
+Stay tunned though, more to come soon!
