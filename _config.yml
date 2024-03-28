@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Relics
+title: MOV
 email: miguelvellasco@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a collection of thoughts, ideas, and opinions about computers, programming,
@@ -30,7 +30,7 @@ twitter_username: mvellasco
 github_username:  mvellasco
 
 # Build settings
-theme: minima
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
