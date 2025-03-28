@@ -27,7 +27,7 @@ domain: "mvellasco.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mvellasco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mvellasco
-github_username:  mvellasco
+github_username: mvellasco
 
 # Build settings
 remote_theme: broccolini/swiss
