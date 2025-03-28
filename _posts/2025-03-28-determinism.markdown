@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Thoughts on Determinism"
+date:   2025-03-28 17:36:02 -0300
+categories: thoughts
+---
+
 ## Determinism: A Summary
 
 Determinism is the philosophical idea that all events are ultimately determined by causes external to the will. Essentially, it argues that 
