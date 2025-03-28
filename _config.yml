@@ -20,7 +20,7 @@
 
 title: MOV
 email: miguelvellasco@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "domain:"
   This is a collection of thoughts, ideas, and opinions about computers, programming,
   technology, and other things that interest me(like football).
 domain: "mvellasco.github.io"
